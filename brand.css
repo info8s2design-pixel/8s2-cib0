@@ -1,1 +1,3 @@
 .brand .cib0Logo{display:block;width:174px;height:auto;overflow:hidden}.brand .brandTagline{margin-top:8px}@media(max-width:600px){.brand .cib0Logo{width:145px}}
+
+#profileSplash{min-height:230px;display:flex;align-items:center;justify-content:center;padding:35px 12px}#profileSplash .cib0Logo{display:block;width:min(100%,300px);height:auto}#profileDialog.showingSplash{width:calc(100% - 36px);max-width:500px}#profileSplash:focus{outline:none}
