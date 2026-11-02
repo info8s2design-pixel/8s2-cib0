@@ -10,16 +10,16 @@
   "theme_color": "#1a241e",
   "icons": [
     {
-      "src": "icons/cib0-zero-192-v1.2.1.png",
+      "src": "icons/cib0-zero-192-v1.2.2.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "icons/cib0-zero-512-v1.2.1.png",
+      "src": "icons/cib0-zero-512-v1.2.2.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
